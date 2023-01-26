@@ -4,7 +4,7 @@ email: perkins.susan@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to the resume and blog for Susan H Perkins, Senior Software Developer.  Enthusiastic full stack developer. This is my
   jekyll-theme-based resume.
-baseurl: "/resume" # the subpath of your site, e.g. /blog
+#baseurl: '/resume' # the subpath of your site, e.g. /blog
 url: "http://shperkins.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SusanThePerkins
 github_username:  perkinss
