@@ -10,6 +10,4 @@ twitter_username: SusanThePerkins
 github_username:  perkinss
 
 # Build settings
-theme: minimal-mistakes-jekyll
-plugins:
-  - jekyll-feed
+theme: minima
