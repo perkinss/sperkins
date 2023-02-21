@@ -1,3 +1,11 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+title: S Perkins
+permalink: /
+---
 
 ## Enthusiastic and proficient senior developer with a keen interest in scalable software architecture and high-quality user experiences.
 # Education
@@ -72,3 +80,4 @@ University of Victoria
 * Leadership certification — Workplace Communications, Camosun College, 2017
 * Project Management Professional Training & Certification, 2015
 * Compiler Construction — UVic, 2014
+
