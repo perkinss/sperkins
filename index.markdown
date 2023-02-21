@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: S Perkins
+title: Susan Perkins - Resume
 permalink: /
 ---
 
