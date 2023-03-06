@@ -30,7 +30,7 @@ github_username:  perkinss
 linkedin_username: shperkins
 
 # Build settings
-theme: architect
+theme: minima
 plugins:
   - jekyll-feed
 
