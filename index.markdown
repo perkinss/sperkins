@@ -3,13 +3,11 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 <!-- You can set your favicon here -->
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" >
-
 <!-- end custom head snippets -->
-title: Susan Perkins - Resume
+title: Susan Perkins || Resume
 permalink: /
 ---
-
-## Enthusiastic and proficient senior developer with a keen interest in scalable software architecture and high-quality user experiences.
+Enthusiastic and proficient senior developer with a keen interest in scalable software architecture and high-quality user experiences.
 # Education
 Bachelor of Software Engineering, <em>with Distinction</em><br/>
 2001 - 2007 <br/>
@@ -68,7 +66,7 @@ University of Victoria
 ### Software Developer, Illumina Clarity LIMS
 ***Jan 2016 – Jan 2018***
 ###### [Illumina](https://illumina.com) builds instruments that help scientists unlock the power of the genome.
-* Transformed an aging application built in JavaScript and deployed an old version of JBoss, to a very snappy user-friendly interface using ReactJS running in a tomcat server and deployed via a Bamboo CI pipeline.  The changes made the core product development team substantially improved supportability, performance and maintainability of the Illumina Clarity Lab Information System (LIMS) and added a high degree of customer value.
+* Transformed an aging application built in JavaScript and deployed on an outdated version of JBoss, to a very snappy user-friendly interface using ReactJS running in a tomcat server and deployed via a Bamboo CI pipeline.  The changes made the core product development team substantially improved supportability, performance and maintainability of the Illumina Clarity Lab Information System (LIMS) and added a high degree of customer value.
 
 ----
 ### Architect, Lead Developer, Solvation.xyz
@@ -97,3 +95,13 @@ University of Victoria
 * Compiler Construction — UVic, 2014
 
 ____
+____
+
+# Blog Posts:
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
